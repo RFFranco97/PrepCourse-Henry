@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Esto es un repositorio de prueba
+Ramiro Franco
+Este proyecto es una prueba de como crear un repositorio y clonarlo a mi computadora
